@@ -1,0 +1,11 @@
+These v35 files (from steal_the_relic_v35_upload.zip) must also be in the repo root:
+caos_drs_chaosenergy_01a_v35.glb
+caos_drs_kodalantern_01b_v35.glb
+caos_drs_kodalantern_01c_v35.glb
+caos_hro_chaosconfluence_02a_v35.glb
+caos_stl_chaosgrowth_01c_v35.glb
+caos_stl_rubble_01b_v35.glb
+caos_sts_chaosgrowth_02b_v35.glb
+caos_sts_chaosgrowth_02c_v35.glb
+caos_sts_chaosgrowth_02d_v35.glb
+kb_ball_v35.glb
